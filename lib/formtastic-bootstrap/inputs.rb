@@ -28,7 +28,7 @@ module FormtasticBootstrap
     autoload :StringInput,         "formtastic-bootstrap/inputs/string_input"
     autoload :TextInput,           "formtastic-bootstrap/inputs/text_input"
     autoload :TimeInput,           "formtastic-bootstrap/inputs/time_input"
-    # autoload :TimePickerInput    # TODO Come back to this.
+    autoload :TimePickerInput,     "formtastic-bootstrap/inputs/time_picker_input"
     autoload :TimeSelectInput,     "formtastic-bootstrap/inputs/time_select_input"
     autoload :TimeZoneInput,       "formtastic-bootstrap/inputs/time_zone_input"
     # autoload :Timeish            # This seems like a mistake.
